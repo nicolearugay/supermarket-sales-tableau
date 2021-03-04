@@ -1,6 +1,6 @@
 # supermarket-sales-tableau
 
-An analysis of supermarket sales in Myannmar. 
+An analysis of supermarket sales in Myanmar. 
 
 [Tableau Public Link](https://public.tableau.com/views/SupermarketSales-NicoleArugay/CorrelationMatrix?:language=en&:display_count=y&publish=yes&:origin=viz_share_link) 
 
