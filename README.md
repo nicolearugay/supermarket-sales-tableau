@@ -1,4 +1,4 @@
-# supermarket-sales-tableau
+# Supermarket-Sales-Tableau
 
 An analysis of supermarket sales in Myanmar. 
 
