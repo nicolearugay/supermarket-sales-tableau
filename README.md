@@ -1,4 +1,4 @@
-# Supermarket-Sales-Tableau
+# Supermarket-Sales-Tableau-Marketing-Analytics
 
 An analysis of supermarket sales in Myanmar. Created for my marketing analytics class during my spring 2021 semester. 
 
